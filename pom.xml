@@ -4,4 +4,5 @@
   <artifactId>jenkins.maven.test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Jenkins Maven Test</name>
+  <packaging>war</packaging>
 </project>
